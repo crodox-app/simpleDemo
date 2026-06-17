@@ -1,0 +1,28 @@
+import { C2 } from './bridgeTest2.txt';
+import { F5 } from './folder/bridgeTest.txt';
+
+let aaa ;
+let bbb ;
+let ccc ;
+
+class C1 (a , b , c ) {
+
+    let hhh ;
+    let zzz ;
+
+    function F1 ( V1 ) { 
+        let xxx = zzz;
+        let yyy;
+    }
+
+    function F2 ( V2 ) { 
+        let zzz = bbb;
+        let yyy = hhh;
+    }
+    
+}
+
+C1.F1(aaa);
+C1.F2(ccc);
+C2.F3();
+C2.F4();
